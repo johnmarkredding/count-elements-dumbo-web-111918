@@ -1,7 +1,7 @@
 def count_elements(array)
   # code goes here
   result = {}
-  animals.each do |x|
+  arrat.each do |x|
     result[x] ||= 0
     result[x] += 1
   end
